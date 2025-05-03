@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+setup.py
+src/deepl/__init__.py
+src/deepl/client.py
+src/deepl/exceptions/__init__.py
+src/deepl/exceptions/api_exceptions.py
+src/deepl/models/__init__.py
+src/deepl/models/language.py
+src/deepl/models/translation.py
+src/deepl/models/usage.py
+src/deepl_api.egg-info/PKG-INFO
+src/deepl_api.egg-info/SOURCES.txt
+src/deepl_api.egg-info/dependency_links.txt
+src/deepl_api.egg-info/requires.txt
+src/deepl_api.egg-info/top_level.txt

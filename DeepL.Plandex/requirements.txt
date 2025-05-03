@@ -1,0 +1,6 @@
+requests>=2.25.0
+pydantic>=1.8.0
+python-dotenv>=0.15.0
+pytest>=6.2.5
+pytest-mock>=3.6.1
+responses>=0.13.0

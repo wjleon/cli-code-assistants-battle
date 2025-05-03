@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: deepl_api
+Version: 0.1.0
+Summary: Python client for the DeepL API
+Author: Claude
+Author-email: example@example.com
+Keywords: deepl,translation,api
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Requires-Dist: requests>=2.25.1
+Requires-Dist: pydantic>=2.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

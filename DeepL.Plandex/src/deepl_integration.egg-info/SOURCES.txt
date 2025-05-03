@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/deepl_integration.egg-info/PKG-INFO
+src/deepl_integration.egg-info/SOURCES.txt
+src/deepl_integration.egg-info/dependency_links.txt
+src/deepl_integration.egg-info/requires.txt
+src/deepl_integration.egg-info/top_level.txt
