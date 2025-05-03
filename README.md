@@ -1,5 +1,9 @@
 # CodeCliBattle: AI Code Assistants Comparison
 
+🚨 Who writes the best Python code: Amazon Q, Claude Code, OpenAI Codex, or Plandex AI? 🚨 I put these four AI coding powerhouses head-to-head in a high-stakes coding showdown: integrating Python with DeepL's API. From secure API key handling to modular design and rigorous testing, each assistant faced strict, real-world criteria. The winner surprised me—and it might surprise you too! Check out the thrilling results and insights from this AI coding battle in my latest Medium post!
+
+https://medium.com/@wjleon/battle-of-the-ai-code-assistants-who-writes-the-best-python-integration-code-f78e09a5554c
+
 This repository contains a structured comparison of four leading AI code assistants and their ability to generate Python code for a specific task.
 
 ## Challenge Overview
